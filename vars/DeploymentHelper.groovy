@@ -1,3 +1,3 @@
-def call(String message) {
+def daveone(String message) {
     echo "Notification: ${message}"
 }
