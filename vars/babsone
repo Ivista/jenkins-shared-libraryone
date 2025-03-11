@@ -1,3 +1,5 @@
 def paul(String message) {
     echo "Shared Library: ${message}"
 }
+// Mandatory to expose these explicitly if using named methods:
+return this
