@@ -1,3 +1,3 @@
-def notifyDeployment(String message) {
+def call(String message) {
     echo "Notification: ${message}"
 }
