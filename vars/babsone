@@ -1,0 +1,3 @@
+def paul(String message) {
+    echo "Shared Library: ${message}"
+}
